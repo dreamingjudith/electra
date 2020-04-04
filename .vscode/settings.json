@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/judith/anaconda3/envs/electra/bin/python",
+    "python.linting.pycodestyleArgs": ["--ignore=E111,E501"]
+}
